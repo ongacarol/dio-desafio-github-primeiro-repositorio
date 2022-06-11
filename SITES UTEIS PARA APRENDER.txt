@@ -12,8 +12,8 @@ https://htmlcolorcodes.com/tutorials/
 
 https://developer.mozilla.org/pt-BR/docs/Web
 
-https://www.origamid.com/minha-conta/
+https://www.origamid.com/
 
-https://app.branas.io/users/a4caddb0-9684-4ce9-b56f-e8af8073ab72/products
+https://app.branas.io/
 
 https://roadmap.sh/frontend
